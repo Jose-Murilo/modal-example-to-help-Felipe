@@ -5,6 +5,8 @@ const App = () => {
   return (
     <div>
       <Navbar />
+
+      <p>Hello World</p>
     </div>
   );
 };
